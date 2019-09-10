@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook OTP Demo</string>
+    <string name="FACEBOOK_APP_ID">392148085037960</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">1aeadd1bb74042ad8296991d3f7327fb</string>
+    <string name="AK_LOGIN_PROTOCOL_SCHEME">ak392148085037960</string>
+    <string name="logout">logout</string>
+    <string name="verify_by_otp">Verify by OTP</string>
+    <string name="verify_by_email">Verify by Email</string>
+</resources>

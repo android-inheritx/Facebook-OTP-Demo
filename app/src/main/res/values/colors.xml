@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CF6F55</color>
+    <color name="colorPrimaryDark">#B3482A</color>
+    <color name="colorAccent">#CF6F55</color>
+    <color name="acct_kit_light_grey">#CE998D</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
