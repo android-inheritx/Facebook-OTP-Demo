@@ -9,7 +9,7 @@ This demo is regarding mobile number verification with OTP and email verificatio
 |<img src="screenshots/otp_main_screen.png" height="300em" /> | <img src="screenshots/mobile_input.png" height="300em" /> | <img src="screenshots/mobile_verification.png" height="300em" /> | <img src="screenshots/email_input.png" height="300em"/> |<img src="screenshots/email_verification.png" height="300em" /> 
 
 
-# Some Useful FAQ
+## Some Useful FAQ
 
 
 
