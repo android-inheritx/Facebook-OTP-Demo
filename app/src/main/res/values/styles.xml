@@ -11,6 +11,7 @@
 
     <style name="AppLoginTheme" parent="Theme.AccountKit">
         <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/colorAccent</item>
         <item name="com_accountkit_background_color">@color/white</item>
         <item name="com_accountkit_button_background_color">@color/colorPrimary</item>
         <item name="com_accountkit_button_border_color">@color/colorAccent</item>
